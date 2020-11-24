@@ -1,0 +1,18 @@
+// Generar un programa que presente en pantalla
+// o escriba en pantalla los números menores o iguales a 5.
+// Los números deben empezar desde cero
+
+
+1.  Inicio
+2.  numero, i[0, n]
+3.  numero <-- 0
+4.  cadenaFinal, x(200)[{1-9},{a-z},{A-Z}, {/}]
+5.  cadenaFinal <-- ""
+6.  Haga_Hasta 
+7.     cadenaFinal <-- cadenaFinal + numero + "\n"
+8.     // se incrementa el valor de numero (contador)
+9.     numero <-- numero + 1
+10. Fin Haga_Hasta (numero <= 5)
+11. Escribir cadenaFinal
+12. Fin
+
